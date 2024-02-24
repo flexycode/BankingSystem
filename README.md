@@ -1,6 +1,12 @@
 # 💫 CCPRGG1L_FUNDAMENTALS_PROGRAMMING_COM23P        
 ### Group Name: Artificial Ledger 🇵🇭
-### Group Member: 😎 Jay Arre Talosig, 😃 Gabriel Angelo Viñas, 🥰 Anilove Tiquio, 🤗 Kristine Vine Navarro, 😌 Joshua Maquilan, 😋 Vince Erol Pangilinan     
+### Group Member: 
+ * ####  😎 Jay Arre Talosig
+ * ####  😃 Gabriel Angelo Viñas 
+ * ####  🥰 Anilove Tiquio 
+ * ####  🤗 Kristine Vine Navarro 
+ * ####  😌 Joshua Maquilan 
+ * ####  😋 Vince Erol Pangilinan     
 ### Subject & Section: 🧚‍♂️ CCPRGG1L COM23P 🧚‍♀️  
 ### Professor: 👦 Jay D. Abaleta          
 
