@@ -1,4 +1,4 @@
-# 💫 CCPRGG1L_FUNDAMENTALS_PROGRAMMING_COM23P        
+# 💫 CCPRGG1L FUNDAMENTALS PROGRAMMING      
 ### Group Name: Artificial Ledger 🇵🇭
 ### Group Member: 
  * ####  😎 Jay Arre Talosig
