@@ -54,6 +54,7 @@ Welcome to the Banking System! This system allows users to perform various banki
 ### Tree Diagram Details
 
 Banking System
+```bash
 ├── Account
 │   ├── AccountNumber
 │   ├── AccountHolderName
@@ -69,19 +70,20 @@ Banking System
     ├── withdraw()
     ├── checkBalance()
     └── displayAccountDetails()
-
+```
 
 ### Tree Diagram Simple Structure
-
+```bash
 BankingSystem
 ├── Account
 └── BankingProgram
-
+```
 #### Tree Diagram
+```
 BankingSystem.java
 ├── Account.java
 └── BankingProgram.java
-
+```
 
 In this structure, the BankingSystem class acts as the main class that combines the functionality of the Account and BankingProgram classes. The Account class represents a bank account, and the BankingProgram class handles user input and interaction.
 
@@ -131,19 +133,21 @@ This project is licensed under the MIT License and National University.
 
 
 # 📫 Changelogs     
-## [1.0.0] - 2024-02-13     
+## [1.0.0] - 2024-02-25     
 ### Added
 - 📫 Uploaded the Project Requirements
 - 📫 Created the Project Documentation
 - 📫 Added breakdown and documentation
 
 ### Changed
-- 📫 Changed some java source code file
-- 📫
+- 📫 Revised all java source code file
+- 📫 Changed some variable and array
 
 ### Fixed
 - 📫 Fixed some error in java methods and classes
-- 📫
+
+### Problem
+- 📫 There's an overall issue from this code
 
 #### [Back to Table of Content](#introduction)
 
