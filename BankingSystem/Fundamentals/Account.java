@@ -46,4 +46,9 @@ public void displayAccountDetails() {
     System.out.println("Account Holder Name: " + accountHolderName);
     System.out.println("Balance: " + balance);
 }
+
+public void displayAccountDetails() {
+    System.out.println("Account Number: " + accountNumber);
+    System.out.println("Account Holder Name: " + accountHolderName);
+    System.out.println("Balance: " + balance);
 }
