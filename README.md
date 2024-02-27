@@ -97,11 +97,11 @@ The BankingSystem class is the central component that connects the Account class
 
 #### Program Structure
 
-* `Control Structures`: The BankingProgram class includes a do-while loop with a switch statement that allows users to make choices and perform different actions based on their input. This demonstrates the use of control structures to control the flow of the program.
+* `Control Structures`: The `BankingProgram` class includes a do-while loop with a switch statement that allows users to make choices and perform different actions based on their input. This demonstrates the use of control structures to control the flow of the program.
 
-* `Methods`: All three classes (Account, BankingProgram, and BankingSystem) contain multiple methods that perform specific actions. For example, the Account class has methods like deposit(), withdraw(), checkBalance(), and displayAccountDetails(). The BankingSystem class has methods like createAccount(), deposit(), withdraw(), checkBalance(), and displayAccountDetails(). The BankingProgram class has the main() method. These methods encapsulate specific functionalities and promote code reusability.
+* `Methods`: All three classes (`Account`, `BankingProgram`, and `BankingSystem`) contain multiple methods that perform specific actions. For example, the `Account` class has methods like `deposit()`, `withdraw()`, `checkBalance()`, and `displayAccountDetails()`. The `BankingSystem` class has methods like `createAccount()`, `deposit()`, `withdraw()`, `checkBalance()`, and `displayAccountDetails()`. The `BankingProgram` class has the `main()` method. These methods encapsulate specific functionalities and promote code reusability.
 
-* `Array`: The BankingSystem class includes an array called accounts[] to store instances of the Account class. The array is used to manage multiple accounts, such as creating new accounts, accessing specific accounts, and performing operations on them.
+* `Array`: The `BankingSystem` class includes an array called `accounts[]` to store instances of the `Account` class. The array is used to manage multiple accounts, such as creating new accounts, accessing specific accounts, and performing operations on them.
 
 # ✍️ Code Structure Explanation  
 
