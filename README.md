@@ -58,11 +58,11 @@ Welcome to the Banking System! This system allows users to perform various banki
 - Check the current balance of an account.
 - Display detailed information about an account.
 
-### Tree Diagram Details
+### Tree Diagram Details 
 
 Banking System
 ```bash
-├── Account
+├── Account 
 │   ├── AccountNumber
 │   ├── AccountHolderName 
 │   ├── Balance
@@ -81,18 +81,20 @@ Banking System
 
 ### Tree Diagram Simple Structure
 ```bash
-BankingProgram
+BankingSystem 
 ├── Account
-└── BankingSystem
+└── BankingProgram 
 ```
-#### Tree Diagram
+#### Tree Diagram 
 ```
-BankingProgram.java
-├── Account.java 
-└── BankingSystem.java
+BankingSystem.java 
+├── Account.java  
+└── BankingProgram.java 
 ```
 
-In this structure, the BankingSystem class acts as the main class that combines the functionality of the Account and BankingProgram classes. The Account class represents a bank account, and the BankingProgram class handles user input and interaction.
+In this structure, BankingSystem is the parent class that contains an array of Account objects and methods to manage those accounts. Account is a separate class that represents a bank account and contains methods to perform operations on the account. BankingProgram is the main class that includes the main() method and handles user interaction.
+
+The BankingSystem class is the central component that connects the Account class and the BankingProgram class. It manages the accounts using the array and provides methods to perform operations on those accounts.
 
 #### Program Structure
 
@@ -102,20 +104,61 @@ In this structure, the BankingSystem class acts as the main class that combines 
 
 * `Array`: The BankingSystem class includes an array called accounts[] to store instances of the Account class. The array is used to manage multiple accounts, such as creating new accounts, accessing specific accounts, and performing operations on them.
 
-## Installation
+# ✍️ Code Structure Explanation  
+
+#### Banking System 🌐
+```
+`BankingSystem.java` <------- This Part :) 
+├── Account.java   
+└── BankingProgram.java  
+```
+The `BankingSystem` class manages the array of `Account` objects and provides methods to create accounts, deposit/withdraw money, check balances, and display account details.
+
+It includes the following methods: 
+ 
+* `createAccount(int accountNumber, String accountHolderName, double balance)`: Creates a new account with the given account number, account holder name, and initial balance. The account is added to the `accounts` array.
+
+* `deposit(int accountNumber, double amount)`: Deposits the specified amount into the account with the given account number. If the account is found, the `deposit()` method of the `Account` class is called.
+
+* `withdraw(int accountNumber, double amount)`: Withdraws the specified amount from the account with the given account number. If the account is found, the `withdraw()` method of the `Account` class is called.
+
+* `checkBalance(int accountNumber)`: Checks and displays the balance of the account with the given account number. If the account is found, the checkBalance() method of the Account class is called.
+
+* `displayAccountDetails(int accountNumber)`: Displays the details of the account with the given account number. If the account is found, the displayAccountDetails() method of the Account class is called.
+
+* `findAccount(int accountNumber)`: Searches for an account with the given account number in the `accounts` array. Returns the account if found, or `null` if not found.
+
+#### Account 🕵️ 
+
+```
+BankingSystem.java  
+├── Account.java   <------- This Part :) 
+└── BankingProgram.java  
+```
+
+#### Banking Program 💱 
+
+```
+BankingSystem.java 
+├── Account.java     
+└── BankingProgram.java  <------- This Part :)
+```
+
+
+## Installation  
 1. Clone the repository to your local machine.
 2. Open the project in your preferred programming environment.
 3. Build the project to compile the source code.
 
 ## Usage
-1. Run the `BankingProgram` class to start the program.
+1. Run the `BankingProgram` class to start the program. 
 2. Follow the on-screen menu options to perform various banking activities.
 3. Enter the required information when prompted, such as account numbers, account holder names, deposit/withdrawal amounts, etc.
 4. View the program's output to see the results of each operation.
 
-# 🏆 Contributing 
+# 🏆 Contributing  
 
-## Contributing
+## Contributing 
 If you would like to contribute to the Banking System, please follow these steps:
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
