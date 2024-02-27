@@ -10,7 +10,7 @@
 ### Subject & Section: 🧚‍♂️ CCPRGG1L COM23P 🧚‍♀️  
 ### Professor: 👦 Jay D. Abaleta          
 
-# 📊 Table of Contents
+# 📊 Table of Contents 
 
 ## [Introduction](#introduction)
 This repository contains source code for a Java project that focuses on fundamental concepts and exercises. The code includes examples of input/output operations, arithmetic calculations, and basic Java syntax.
@@ -106,11 +106,11 @@ The BankingSystem class is the central component that connects the Account class
 
 # ✍️ Code Structure Explanation  
 
-#### Banking System 🌐
+#### 🌐 Banking System 🌐
 ```
 `BankingSystem.java` <------- This Part :) 
 ├── Account.java   
-└── BankingProgram.java  
+└── BankingProgram.java   
 ```
 The `BankingSystem` class manages the array of `Account` objects and provides methods to create accounts, deposit/withdraw money, check balances, and display account details.
 
@@ -128,7 +128,7 @@ It includes the following methods:
 
 * `findAccount(int accountNumber)`: Searches for an account with the given account number in the `accounts` array. Returns the account if found, or `null` if not found.
 
-#### Account 🕵️ 
+#### 🕵️ Account 🕵️  
 
 ```
 BankingSystem.java  
@@ -136,7 +136,9 @@ BankingSystem.java  
 └── BankingProgram.java  
 ```
 
-#### Banking Program 💱 
+// Need some documentation here //
+
+#### 💱 Banking Program 💱  
 
 ```
 BankingSystem.java 
@@ -144,6 +146,7 @@ BankingSystem.java 
 └── BankingProgram.java  <------- This Part :)
 ```
 
+// Need some documentation here //
 
 ## Installation  
 1. Clone the repository to your local machine.
