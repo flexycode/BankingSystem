@@ -64,13 +64,13 @@ Banking System
 ```bash
 ├── Account
 │   ├── AccountNumber
-│   ├── AccountHolderName
+│   ├── AccountHolderName 
 │   ├── Balance
-│   ├── createAccount()
+│   ├── createAccount() 
 │   ├── deposit()
 │   ├── withdraw()
 │   └── displayAccountDetails()
-└── BankingProgram
+└── BankingProgram 
     ├── accounts[]
     ├── createAccount()
     ├── deposit()
@@ -81,19 +81,26 @@ Banking System
 
 ### Tree Diagram Simple Structure
 ```bash
-BankingSystem
+BankingProgram
 ├── Account
-└── BankingProgram
+└── BankingSystem
 ```
 #### Tree Diagram
 ```
-BankingSystem.java
-├── Account.java
-└── BankingProgram.java
+BankingProgram.java
+├── Account.java 
+└── BankingSystem.java
 ```
 
 In this structure, the BankingSystem class acts as the main class that combines the functionality of the Account and BankingProgram classes. The Account class represents a bank account, and the BankingProgram class handles user input and interaction.
 
+#### Program Structure
+
+* `Control Structures`: The BankingProgram class includes a do-while loop with a switch statement that allows users to make choices and perform different actions based on their input. This demonstrates the use of control structures to control the flow of the program.
+
+* `Methods`: All three classes (Account, BankingProgram, and BankingSystem) contain multiple methods that perform specific actions. For example, the Account class has methods like deposit(), withdraw(), checkBalance(), and displayAccountDetails(). The BankingSystem class has methods like createAccount(), deposit(), withdraw(), checkBalance(), and displayAccountDetails(). The BankingProgram class has the main() method. These methods encapsulate specific functionalities and promote code reusability.
+
+* `Array`: The BankingSystem class includes an array called accounts[] to store instances of the Account class. The array is used to manage multiple accounts, such as creating new accounts, accessing specific accounts, and performing operations on them.
 
 ## Installation
 1. Clone the repository to your local machine.
@@ -145,13 +152,16 @@ This project is licensed under the MIT License and National University.
 - 📫 Uploaded the Project Requirements
 - 📫 Created the Project Documentation
 - 📫 Added breakdown and documentation
+- 📫 Added a function for default Bank Account profile. 
 
 ### Changed
 - 📫 Revised all java source code file
 - 📫 Changed some variable and array
+- 📫 Changed the value and function for class method in the BankingProgram.java 
 
 ### Fixed
 - 📫 Fixed some error in java methods and classes
+- 📫 Fixed the name of the Main Branch for debugging and run the code. BankingProgram will be the main branch while BankingSystem will be the sub-branch.
 
 ### Problem
 - 📫 There's an overall issue from this code
