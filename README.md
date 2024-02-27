@@ -21,22 +21,21 @@ This repository contains source code for a Java project that focuses on fundamen
   
 ### CCPRGG1L Table lecture
 
-| Topic                                   | Description                                                     | 
-| :------------------------------------- | :-------------------------------------------------------------- | 
-| Part 1 - Introduce Basic Programming    | Introduction to Basic programming Variables and Type             |
-| Part 2 - Java Programming               | Problem-solving phases                                          |
-| Part 3a - Understand the basic concepts of Object-Oriented Programming (OOP) | Compare Procedural and OOP |
-| Part 3b - Learn how to declare and use classes and objects in Java         | Introduction to objects and classes                              |
-| Part 4 - Learn how to implement user-defined methods | Primitive types and String Class, Basic Operators (Arithmetic, Relational, and Logical) |
-| Part 5 - Identify the types of variables and its scope | Class Methods, Variables Scoping |
-| Part 6 - Sequential, conditional, and iteration structure | Sequential Structure |
-| Part 7 - Learn the difference between sequential, conditional, and iteration structure | Conditional Structure |
-| Part 8 - Learn how to use various conditional structures | Sequential vs Conditional Structure |
-| Part 9 - Learn the difference between sequential, conditional, and iteration structure | Sequential vs Conditional Structure |
-| Part 10 - Learn how to use various iteration structures | Sequential vs Conditional Structure |
-| Part 11 - Learn built-in mathematical function in the Java Math Class Library | String and char operations |
-| Part 12 - Learn built-in mathematical function in the Java Math Class Library | Arrays and Array list |
-
+| Topic                                                                  | Description                                                      |
+| :--------------------------------------------------------------------- | :--------------------------------------------------------------- |
+| Part 1 - Introduce Basic Programming                                    | Introduction to Basic programming Variables and Type             |
+| Part 2 - Java Programming                                               | Problem-solving phases                                           |
+| Part 3a - Understand the basic concepts of Object-Oriented Programming (OOP) | Compare Procedural and OOP                                |
+| Part 3b - Learn how to declare and use classes and objects in Java      | Introduction to objects and classes                              |
+| Part 4 - Learn how to implement user-defined methods                    | Primitive types and String Class, Basic Operators (Arithmetic, Relational, and Logical) |
+| Part 5 - Identify the types of variables and its scope                  | Class Methods, Variables Scoping                                 |
+| Part 6 - Sequential, conditional, and iteration structure               | Sequential Structure                                             |
+| Part 7 - Learn the difference between sequential, conditional, and iteration structure | Conditional Structure                                |
+| Part 8 - Learn how to use various conditional structures                | Sequential vs Conditional Structure                              |
+| Part 9 - Learn the difference between sequential, conditional, and iteration structure | Sequential vs Conditional Structure                              |
+| Part 10 - Learn how to use various iteration structures                 | Sequential vs Conditional Structure                              |
+| Part 11 - Learn built-in mathematical function in the Java Math Class Library | String and char operations                                |
+| Part 12 - Learn built-in mathematical function in the Java Math Class Library | Arrays and Array list                                             |
 
 # Banking System
 
