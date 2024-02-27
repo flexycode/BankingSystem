@@ -187,10 +187,10 @@ If you would like to contribute to the Banking System, please follow these steps
 ###### 🤖 If you encounter any issues or have suggestions, please open an issue to let us know.
 
 # 🔑 License 
-
+ 
 ## License
-The Banking System is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-This project is licensed under the MIT License and National University.
+The Banking System is licensed under the [MIT License](https://opensource.org/licenses/MIT) and [ALT Licence](https://github.com/flexycode/BankingSystem/blob/main/LICENSE).
+This project is licensed under the MIT License and Artificial Ledger Technology.
 
 
 # 📫 Changelogs     
