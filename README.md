@@ -21,8 +21,8 @@ This repository contains source code for a Java project that focuses on fundamen
   
 ### CCPRGG1L Table lecture
 
-| Topic                                   | Description                                                     |
-| :------------------------------------- | :-------------------------------------------------------------- |
+| Topic                                   | Description                                                     | 
+| :------------------------------------- | :-------------------------------------------------------------- | 
 | Part 1 - Introduce Basic Programming    | Introduction to Basic programming Variables and Type             |
 | Part 2 - Java Programming               | Problem-solving phases                                          |
 | Part 3a - Understand the basic concepts of Object-Oriented Programming (OOP) | Compare Procedural and OOP |
@@ -150,12 +150,12 @@ BankingSystem.java 
 
 # 🧊 Installation 
  
-## Installation ✍️    
+### Installation ✍️      
 1. Clone the repository to your local machine.
 2. Open the project in your preferred programming environment.
 3. Build the project to compile the source code.
 
-## Usage ✍️
+### Usage ✍️
 1. Run the `BankingProgram` class to start the program.  
 2. Follow the on-screen menu options to perform various banking activities.
 3. Enter the required information when prompted, such as account numbers, account holder names, deposit/withdrawal amounts, etc.
@@ -163,7 +163,7 @@ BankingSystem.java 
 
 # 🏆 Contributing   
 
-## Contributing 
+### Contributing  
 If you would like to contribute to the Banking System, please follow these steps:
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
@@ -188,7 +188,6 @@ If you would like to contribute to the Banking System, please follow these steps
 
 # 🔑 License 
 
-
 ## License
 The Banking System is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 This project is licensed under the MIT License and National University.
@@ -196,7 +195,7 @@ This project is licensed under the MIT License and National University.
 
 # 📫 Changelogs     
 ## [1.0.0] - 2024-02-25     
-### Added
+### Added 
 - 📫 Uploaded the Project Requirements
 - 📫 Created the Project Documentation
 - 📫 Added breakdown and documentation
